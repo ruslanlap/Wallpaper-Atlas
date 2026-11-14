@@ -8,6 +8,16 @@ A curated directory of wallpaper collections for Windows, Linux, macOS, Android 
 
 Wallpaper Atlas is a directory of independent collections. Open `index.html` in a browser to search and filter sources; choose an image on the original site and download it there. It does not bundle the images or install software.
 
+## Browse directly on GitHub
+
+| Desktop · Windows / Linux / macOS | Mobile · Android / iPhone |
+|---|---|
+| [95 wallpapers](wallpapers/desktop/README.md) | [89 wallpapers](wallpapers/mobile/README.md) |
+
+[Machine-readable catalog](data/wallpapers.json) · [Image credits](ATTRIBUTION.md) · [Download originals](scripts/README.md)
+
+The repository includes 24 lightweight preview files and a complete index of 184 originals. Original image binaries are downloaded on demand.
+
 ## Visual gallery
 
 The site now features 184 wallpapers: 95 landscape images and 89 portrait images from ML4W and The Wallpaper Collection, with verified image dimensions, direct original-image links and per-image source attribution. Images load from upstream, pinned to a commit; they are not mirrored in this repository. Android and iPhone filters show portrait images; source collections remain available below the gallery.
