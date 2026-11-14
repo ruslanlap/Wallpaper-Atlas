@@ -7,10 +7,11 @@
   catch { favorites = new Set(); }
   $('search').value = params.get('q') || '';
   $('platform').value = ['all','mac','windows','linux','android','iphone'].includes(params.get('filter')) ? params.get('filter') : 'all';
-  $('style').value = ['Nature','Abstract','Architecture','Space'].includes(params.get('style')) ? params.get('style') : 'all';
+  $('style').value = ['Nature','Abstract','Architecture','Space','Other'].includes(params.get('style')) ? params.get('style') : 'all';
   let savedOnly = params.get('saved') === '1';
   function element(tag, text, cls) { const node=document.createElement(tag); if(text) node.textContent=text; if(cls) node.className=cls; return node; }
   function link(text, url) { const a=element('a',text); a.href=url; a.target='_blank'; a.rel='noopener noreferrer'; return a; }
+  let visibleLimit=12;
   function render() {
     const state={q:$('search').value,filter:$('platform').value,style:$('style').value,saved:savedOnly?'1':'0'};
     try { history.replaceState(null,'','#'+new URLSearchParams(state)); } catch {}
@@ -18,7 +19,8 @@
     $('saved').setAttribute('aria-pressed',String(savedOnly));
     $('count').textContent=`${images.length} / ${window.Atlas.images.length} wallpapers`;
     $('empty').hidden=images.length>0; $('grid').replaceChildren();
-    for(const wall of images) {
+    $('more').hidden=images.length<=visibleLimit;
+    for(const wall of images.slice(0,visibleLimit)) {
       const card=element('article',null,wall.height>wall.width?'card portrait':'card');
       const preview=link('',wall.url); preview.className='image-link'; preview.setAttribute('aria-label',`Open ${wall.title} original image`);
       const img=element('img'); img.src=wall.url;img.alt=wall.title;img.loading='lazy';img.decoding='async';img.width=wall.width;img.height=wall.height;
@@ -30,7 +32,9 @@
     }
   }
   for(const source of window.Atlas.collections){const li=element('li');li.append(link(source[0]+' ↗',source[3]),element('small',source[2]));$('sources').append(li);}
-  $('search').addEventListener('input',render);$('platform').addEventListener('change',render);$('style').addEventListener('change',render);$('saved').addEventListener('click',()=>{savedOnly=!savedOnly;render()});
-  function reset(){$('search').value='';$('platform').value='all';$('style').value='all';savedOnly=false;render()}
+  function changed(){visibleLimit=12;render()}
+  $('more').addEventListener('click',()=>{visibleLimit+=12;render()});
+  $('search').addEventListener('input',changed);$('platform').addEventListener('change',changed);$('style').addEventListener('change',changed);$('saved').addEventListener('click',()=>{savedOnly=!savedOnly;render()});
+  function reset(){visibleLimit=12;$('search').value='';$('platform').value='all';$('style').value='all';savedOnly=false;render()}
   $('reset').addEventListener('click',reset);$('clear-empty').addEventListener('click',reset);render();
 })();

@@ -10,7 +10,7 @@ Wallpaper Atlas is a directory of independent collections. Open `index.html` in 
 
 ## Visual gallery
 
-The site now features 18 wallpapers: 12 landscape images from ML4W and 6 portrait images from The Wallpaper Collection, with verified image dimensions, direct original-image links and per-image source attribution. Images load from upstream, pinned to a commit; they are not mirrored in this repository. Android and iPhone filters show portrait images; source collections remain available below the gallery.
+The site now features 184 wallpapers: 95 landscape images and 89 portrait images from ML4W and The Wallpaper Collection, with verified image dimensions, direct original-image links and per-image source attribution. Images load from upstream, pinned to a commit; they are not mirrored in this repository. Android and iPhone filters show portrait images; source collections remain available below the gallery.
 
 ## What you can do
 
@@ -75,3 +75,7 @@ In repository Settings → Pages, select **GitHub Actions** as the publishing so
 ## Development
 
 Run `node --test tests/*.test.cjs`. CI checks the catalog structure and JavaScript syntax; it does not claim that external links are reachable or that image rights have been reviewed.
+
+### Expanded index
+
+The gallery includes 184 remote images (95 landscape, 89 portrait). Image headers were checked for dimensions; entries below 720 pixels on either side and non-portrait files in the phone selection were excluded. Titles derive from source filenames and style labels are best-effort categories, not artist-verified descriptions. Each original URL is pinned to a source commit. The gallery renders 12 results at a time; Show 12 more adds the next group. Originals may still be large downloads.
