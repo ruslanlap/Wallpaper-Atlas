@@ -1,0 +1,16 @@
+name: Validate catalog
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Validate catalog and interactions
+        run: node --test tests/*.test.cjs

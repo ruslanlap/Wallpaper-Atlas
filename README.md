@@ -1,6 +1,8 @@
 # Wallpaper Atlas
 
-A curated starting point for finding a beautiful wallpaper, wherever you work.
+A curated directory of wallpaper collections for Windows, Linux, macOS, Android and iPhone. Discover your next desktop or mobile background without installing anything.
+
+[![Catalog checks](https://github.com/ruslanlap/Wallpaper-Atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/ruslanlap/Wallpaper-Atlas/actions/workflows/ci.yml) ![Platforms](https://img.shields.io/badge/platforms-desktop%20%26%20mobile-9f82dc) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-9f82dc)](CONTRIBUTING.md)
 
 **[Open the visual collection](index.html)** · [Desktop](#desktop) · [Mobile](#mobile) · [Setup](#set-your-wallpaper) · [Credits & rights](#credits--rights)
 
@@ -42,4 +44,8 @@ This directory links to third-party repositories. Each source retains its own te
 
 ## Contributing
 
-Suggest a source through an issue or pull request. Include its URL, a short description, intended orientation, and available authorship and license information. Do not upload third-party images without permission.
+Found a collection we should include? [Suggest it](https://github.com/ruslanlap/Wallpaper-Atlas/issues/new/choose) or read the [contribution guide](CONTRIBUTING.md).
+
+## License
+
+The project code and its own documentation are available under the [MIT license](LICENSE). Third-party images and collections have their own terms; this license does not grant rights to them.
