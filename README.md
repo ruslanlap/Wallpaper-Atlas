@@ -10,7 +10,7 @@ Wallpaper Atlas is a directory of independent collections. Open `index.html` in 
 
 ## Visual gallery
 
-The site now features 12 landscape wallpapers from the ML4W collection, with verified image dimensions, direct original-image links and per-image source attribution. Images load from upstream, pinned to a commit; they are not mirrored in this repository. Mobile collections remain available in the sources section.
+The site now features 18 wallpapers: 12 landscape images from ML4W and 6 portrait images from The Wallpaper Collection, with verified image dimensions, direct original-image links and per-image source attribution. Images load from upstream, pinned to a commit; they are not mirrored in this repository. Android and iPhone filters show portrait images; source collections remain available below the gallery.
 
 ## What you can do
 

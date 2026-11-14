@@ -3,5 +3,5 @@ test('images have unique IDs, dimensions and pinned sources',()=>{const ids=new 
 test('macOS hash filter produces actual images',()=>assert.ok(atlas.select(atlas.images,{filter:'mac',style:'all'},new Set()).length>0));
 test('search and style combine',()=>{const result=atlas.select(atlas.images,{q:'lake',filter:'all',style:'Nature'},new Set());assert.equal(result.length,1);assert.equal(result[0].title,'Mountain lake')});
 test('saved filter returns only saved image IDs',()=>assert.equal(atlas.select(atlas.images,{filter:'all',style:'all',saved:'1'},new Set([atlas.images[0].id])).length,1));
-test('mobile images are not claimed for landscape collection',()=>assert.equal(atlas.select(atlas.images,{filter:'iphone',style:'all'},new Set()).length,0));
+test('both phone filters show real portrait images',()=>{for(const filter of ['android','iphone']){const result=atlas.select(atlas.images,{filter,style:'all'},new Set());assert.ok(result.length>=6);assert.ok(result.every(x=>x.height>x.width));}});
 test('JavaScript parses and deployment includes runtime files',()=>{new vm.Script(fs.readFileSync('app.js','utf8'));const deploy=fs.readFileSync('.github/workflows/pages.yml','utf8');assert.ok(deploy.includes('app.js catalog.js'));});

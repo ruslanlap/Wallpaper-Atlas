@@ -19,7 +19,7 @@
     $('count').textContent=`${images.length} / ${window.Atlas.images.length} wallpapers`;
     $('empty').hidden=images.length>0; $('grid').replaceChildren();
     for(const wall of images) {
-      const card=element('article',null,'card');
+      const card=element('article',null,wall.height>wall.width?'card portrait':'card');
       const preview=link('',wall.url); preview.className='image-link'; preview.setAttribute('aria-label',`Open ${wall.title} original image`);
       const img=element('img'); img.src=wall.url;img.alt=wall.title;img.loading='lazy';img.decoding='async';img.width=wall.width;img.height=wall.height;
       img.addEventListener('error',()=>{img.hidden=true;const message=element('span','Preview unavailable — open original source','failure');preview.append(message);preview.href=wall.source;},{once:true});preview.append(img);
