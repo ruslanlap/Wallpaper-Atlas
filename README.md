@@ -4,16 +4,20 @@ A curated directory of wallpaper collections for Windows, Linux, macOS, Android 
 
 [![Catalog checks](https://github.com/ruslanlap/Wallpaper-Atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/ruslanlap/Wallpaper-Atlas/actions/workflows/ci.yml) ![Platforms](https://img.shields.io/badge/platforms-desktop%20%26%20mobile-9f82dc) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-9f82dc)](CONTRIBUTING.md)
 
-**[Open the visual collection](index.html)** · [Desktop](#desktop) · [Mobile](#mobile) · [Setup](#set-your-wallpaper) · [Credits & rights](#credits--rights)
+**[Browse the wallpaper gallery](https://ruslanlap.github.io/Wallpaper-Atlas/)** · [Desktop](#desktop) · [Mobile](#mobile) · [Setup](#set-your-wallpaper) · [Credits & rights](#credits--rights)
 
 Wallpaper Atlas is a directory of independent collections. Open `index.html` in a browser to search and filter sources; choose an image on the original site and download it there. It does not bundle the images or install software.
 
+## Visual gallery
+
+The site now features 12 landscape wallpapers from the ML4W collection, with verified image dimensions, direct original-image links and per-image source attribution. Images load from upstream, pinned to a commit; they are not mirrored in this repository. Mobile collections remain available in the sources section.
+
 ## What you can do
 
-- Search 11 collections by name, style or platform.
+- Search featured wallpapers by name, style or platform; explore 11 source collections below.
 - Save favorites locally in your browser (no account required).
 - Share a filtered search using the URL fragment when hosted.
-- Discover a random collection within the current results.
+- Open an original image or inspect its exact upstream source.
 
 ## Desktop
 
