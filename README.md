@@ -8,10 +8,20 @@ A curated directory of wallpaper collections for Windows, Linux, macOS, Android 
 
 Wallpaper Atlas is a directory of independent collections. Open `index.html` in a browser to search and filter sources; choose an image on the original site and download it there. It does not bundle the images or install software.
 
+## What you can do
+
+- Search 11 collections by name, style or platform.
+- Save favorites locally in your browser (no account required).
+- Share a filtered search using the URL fragment when hosted.
+- Discover a random collection within the current results.
+
 ## Desktop
 
 | Collection | Explore | What to expect |
 | --- | --- | --- |
+| ML4W | [mylinuxforwork](https://github.com/mylinuxforwork/wallpaper) | Collection for tiling window managers |
+| Categorized Walls | [dharmx](https://github.com/dharmx/walls) | Categorized wallpaper showcase |
+| Original Walls | [orangci](https://github.com/orangci/walls) | Original colors; README links to the newer collection home |
 | Wallpaper Bank | [JaKooLit](https://github.com/JaKooLit/Wallpaper-Bank) | A wide variety of wallpapers, popular in Linux customization |
 | Catppuccin Mocha | [orangci](https://github.com/orangci/walls-catppuccin-mocha) | Wallpapers adapted to the Mocha palette |
 | EndeavourOS | [Official branding](https://github.com/endeavouros-team/Branding) | Official wallpapers and branding assets |
@@ -49,3 +59,15 @@ Found a collection we should include? [Suggest it](https://github.com/ruslanlap/
 ## License
 
 The project code and its own documentation are available under the [MIT license](LICENSE). Third-party images and collections have their own terms; this license does not grant rights to them.
+
+## Run locally
+
+Download the repository and open `index.html`. No build step or dependencies are needed. Favorites stay in this browser and may be unavailable in private browsing.
+
+## Publish with GitHub Pages
+
+In repository Settings → Pages, select **GitHub Actions** as the publishing source. Then run the **Publish Pages** workflow from Actions. Later pushes to `master` republish automatically. The workflow deploys only the site and its guide.
+
+## Development
+
+Run `node --test tests/*.test.cjs`. CI checks the catalog structure and JavaScript syntax; it does not claim that external links are reachable or that image rights have been reviewed.
