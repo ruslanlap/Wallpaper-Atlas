@@ -1,5 +1,96 @@
 window.Atlas = {images: [
   {
+    "id": "phone-iphone-12-dark",
+    "title": "Midnight spectrum",
+    "style": "Abstract",
+    "width": 1170,
+    "height": 2532,
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/iPhone%2012%20Dark.jpg",
+    "source": "https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/iPhone%2012%20Dark.jpg",
+    "collection": "The Wallpaper Collection",
+    "credit": "Collected by MilesCorporate; see source for artist credits",
+    "platforms": [
+      "android",
+      "iphone"
+    ]
+  },
+  {
+    "id": "phone-iphone-12",
+    "title": "Color spectrum",
+    "style": "Abstract",
+    "width": 1170,
+    "height": 2532,
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/iPhone%2012.jpg",
+    "source": "https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/iPhone%2012.jpg",
+    "collection": "The Wallpaper Collection",
+    "credit": "Collected by MilesCorporate; see source for artist credits",
+    "platforms": [
+      "android",
+      "iphone"
+    ]
+  },
+  {
+    "id": "phone-iphone-12-pro-dark",
+    "title": "Dark geometry",
+    "style": "Abstract",
+    "width": 1170,
+    "height": 2532,
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/iPhone%2012%20Pro%20Dark.jpg",
+    "source": "https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/iPhone%2012%20Pro%20Dark.jpg",
+    "collection": "The Wallpaper Collection",
+    "credit": "Collected by MilesCorporate; see source for artist credits",
+    "platforms": [
+      "android",
+      "iphone"
+    ]
+  },
+  {
+    "id": "phone-marmotamaps_wallpaper_matterhorn_smartphone_1080x1920",
+    "title": "Matterhorn map",
+    "style": "Nature",
+    "width": 1080,
+    "height": 1920,
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/Marmotamaps_Wallpaper_Matterhorn_Smartphone_1080x1920.jpg",
+    "source": "https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/Marmotamaps_Wallpaper_Matterhorn_Smartphone_1080x1920.jpg",
+    "collection": "The Wallpaper Collection",
+    "credit": "Collected by MilesCorporate; see source for artist credits",
+    "platforms": [
+      "android",
+      "iphone"
+    ]
+  },
+  {
+    "id": "phone-02-artemis-ii-wallpaper-looking-back-at-earth-image",
+    "title": "Looking back at Earth",
+    "style": "Space",
+    "width": 1080,
+    "height": 1920,
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/02-artemis-ii-wallpaper-looking-back-at-earth-image.jpg",
+    "source": "https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/02-artemis-ii-wallpaper-looking-back-at-earth-image.jpg",
+    "collection": "The Wallpaper Collection",
+    "credit": "Collected by MilesCorporate; see source for artist credits",
+    "platforms": [
+      "android",
+      "iphone"
+    ]
+  },
+  {
+    "id": "phone-08-artemis-ii-wallpaper-backlit-earth-image",
+    "title": "Backlit Earth",
+    "style": "Space",
+    "width": 1080,
+    "height": 1920,
+    "url": "https://raw.githubusercontent.com/MilesCorporate/The-Wallpaper-Collection/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/08-artemis-ii-wallpaper-backlit-earth-image.jpg",
+    "source": "https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/08-artemis-ii-wallpaper-backlit-earth-image.jpg",
+    "collection": "The Wallpaper Collection",
+    "credit": "Collected by MilesCorporate; see source for artist credits",
+    "platforms": [
+      "android",
+      "iphone"
+    ]
+  }
+,
+  {
     "id": "mountain-lake",
     "title": "Mountain lake",
     "style": "Nature",
