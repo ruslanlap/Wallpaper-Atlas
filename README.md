@@ -1,1 +1,45 @@
-# Wallpaper-Atlas
+# Wallpaper Atlas
+
+A curated starting point for finding a beautiful wallpaper, wherever you work.
+
+**[Open the visual collection](index.html)** · [Desktop](#desktop) · [Mobile](#mobile) · [Setup](#set-your-wallpaper) · [Credits & rights](#credits--rights)
+
+Wallpaper Atlas is a directory of independent collections. Open `index.html` in a browser to search and filter sources; choose an image on the original site and download it there. It does not bundle the images or install software.
+
+## Desktop
+
+| Collection | Explore | What to expect |
+| --- | --- | --- |
+| Wallpaper Bank | [JaKooLit](https://github.com/JaKooLit/Wallpaper-Bank) | A wide variety of wallpapers, popular in Linux customization |
+| Catppuccin Mocha | [orangci](https://github.com/orangci/walls-catppuccin-mocha) | Wallpapers adapted to the Mocha palette |
+| EndeavourOS | [Official branding](https://github.com/endeavouros-team/Branding) | Official wallpapers and branding assets |
+| Linux distros | [Distro-wallpapers](https://github.com/LinuxKits/Distro-wallpapers) | Artwork organized by Linux distribution |
+| OS wallpapers | [OS Wallpapers](https://github.com/Tcode-Motion/os-wallpapers) | A desktop-oriented operating-system collection |
+| elementary OS | [elementary/wallpapers](https://github.com/elementary/wallpapers) | Wallpapers from elementary OS |
+
+## Mobile
+
+| Collection | Explore | What to expect |
+| --- | --- | --- |
+| The Wallpaper Collection | [Phone Wallpapers](https://github.com/MilesCorporate/The-Wallpaper-Collection) | A collection with a dedicated portrait phone section |
+| Vibe wallpapers | [vibe-dev/wallpapers](https://github.com/vibe-dev/wallpapers) | Fractal designs with documented phone sizes |
+
+Landscape images can work on mobile with cropping; pick portrait files when available. Check image resolution and aspect ratio before downloading.
+
+## Set your wallpaper
+
+Download the original image to your device first. Menu names may vary by OS version.
+
+- **Windows 10/11:** right-click the image in File Explorer → **Set as desktop background**. Or go to Settings → Personalization → Background.
+- **macOS:** Control-click the image in Finder → **Set Desktop Picture**. Alternatively, use System Settings → Wallpaper → Add Photo.
+- **Linux:** use your desktop's background settings. In GNOME, open Settings → Background; in KDE Plasma, right-click the desktop → Configure Desktop and Wallpaper. On Hyprland/Omarchy, use the wallpaper selector provided by your setup.
+- **Android:** open the image in Photos/Gallery → menu → Set as wallpaper; choose home screen, lock screen, or both.
+- **iPhone:** save the image to Photos → open it → Share → Use as Wallpaper. Adjust the crop and choose where to apply it.
+
+## Credits & rights
+
+This directory links to third-party repositories. Each source retains its own terms. A repository license may cover code without granting rights to every image; check the original artist and license for each image before redistribution, modification, or commercial use. The orangci collection states that its maintainer did not create the wallpapers and edited some of them. If a creator or rights holder wants a link corrected or removed, please open an issue.
+
+## Contributing
+
+Suggest a source through an issue or pull request. Include its URL, a short description, intended orientation, and available authorship and license information. Do not upload third-party images without permission.
