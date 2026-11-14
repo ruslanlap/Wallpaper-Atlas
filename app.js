@@ -11,11 +11,16 @@
   let savedOnly = params.get('saved') === '1';
   function element(tag, text, cls) { const node=document.createElement(tag); if(text) node.textContent=text; if(cls) node.className=cls; return node; }
   function link(text, url) { const a=element('a',text); a.href=url; a.target='_blank'; a.rel='noopener noreferrer'; return a; }
+  const shuffled = [...window.Atlas.images];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
   let visibleLimit=12;
   function render() {
     const state={q:$('search').value,filter:$('platform').value,style:$('style').value,saved:savedOnly?'1':'0'};
     try { history.replaceState(null,'','#'+new URLSearchParams(state)); } catch {}
-    const images=window.Atlas.select(window.Atlas.images,state,favorites);
+    const images=window.Atlas.select(shuffled,state,favorites);
     $('saved').setAttribute('aria-pressed',String(savedOnly));
     $('count').textContent=`${images.length} / ${window.Atlas.images.length} wallpapers`;
     $('empty').hidden=images.length>0; $('grid').replaceChildren();
