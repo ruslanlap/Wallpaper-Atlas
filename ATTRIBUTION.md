@@ -30,3 +30,25 @@ Image rights remain with their respective rights holders. Inclusion here is not 
 | [previews/mobile/wall-488a3e0b9dbc.jpg](previews/mobile/wall-488a3e0b9dbc.jpg) | [08 artemis ii lunar flyby wallpaper new moon view image](https://github.com/MilesCorporate/The-Wallpaper-Collection/blob/eba6de2ddad441b2bcaafe5c50e5b2c8df51a9b0/Phone%20Wallpapers/08-artemis-ii-lunar-flyby-wallpaper-new-moon-view-image.jpg) |
 
 For attribution corrections or removal requests, open an issue with the affected file and source.
+
+## elementary wallpapers (remote images)
+
+License and credit information follows the [elementary packaging copyright file](https://github.com/elementary/wallpapers/blob/ba8b274cbb0afeda198a62007480ce89d00052f1/debian/copyright); consult the original pages and applicable terms before reuse. No additional image files are redistributed here.
+
+| Wallpaper | Creator / terms | Original creator page |
+|---|---|---|
+| [A Large Body of Water Surrounded By Mountains](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/A%20Large%20Body%20of%20Water%20Surrounded%20By%20Mountains.jpg) | Peter Thomas; Unsplash license | [Source](https://unsplash.com/photos/Dxod5pdRtsk) |
+| [Ashim DSilva](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Ashim%20DSilva.jpg) | Ashim D’Silva; CC0 (upstream statement) | [Source](https://unsplash.com/photos/WeYamle9fDM) |
+| [Canazei Granite Ridges](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Canazei%20Granite%20Ridges.jpg) | see original source; CC0 (upstream statement) | [Source](https://unsplash.com/photos/yrwpJwDNSHE) |
+| [Martin Adams](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Martin%20Adams.jpg) | Martin Adams; Unsplash license | [Source](https://unsplash.com/photos/MpTdvXlAsVE) |
+| [Morskie Oko](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Morskie%20Oko.jpg) | see original source; Unsplash license | [Source](https://unsplash.com/photos/_1UF_3TlKcQ) |
+| [Mr. Lee](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Mr.%20Lee.jpg) | Mr. Lee; CC0 (upstream statement) | [Source](https://unsplash.com/photos/v7r8kZStqFw) |
+| [Nattu Adnan](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Nattu%20Adnan.jpg) | Nattu Adnan; Unsplash license | [Source](https://unsplash.com/photos/Ai2TRdvI6gM) |
+| [Photo by SpaceX](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20by%20SpaceX.jpg) | SpaceX; CC0 (upstream statement) | [Source](https://unsplash.com/photos/VBNb52J8Trk) |
+| [Photo of Valley](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20of%20Valley.jpg) | Aniket Doele; Unsplash license | [Source](https://unsplash.com/photos/M6XC789HLe8) |
+| [Snow-Capped Mountain](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Snow-Capped%20Mountain.jpg) | see original source; Pexels license | [Source](https://www.pexels.com/photo/photo-of-snow-capped-mountain-during-evening-2440024/) |
+| [Sunset by the Pier](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Sunset%20by%20the%20Pier.jpg) | see original source; CC0 (upstream statement) | [Source](https://unsplash.com/photos/ces8_Bo7bhQ) |
+| [Tj Holowaychuk](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Tj%20Holowaychuk.jpg) | Tj Holowaychuk; Unsplash license | [Source](https://unsplash.com/photos/iGrsa9rL11o) |
+| [Viktor Forgacs](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Viktor%20Forgacs.jpg) | Viktor Forgacs; Unsplash license | [Source](https://unsplash.com/photos/q8XSCZYh6D8) |
+| [odin-dark](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin-dark.jpg) | Ryan Gorley; features work by Brendon Porter; CC BY-SA 4.0 | [Source](https://brendonporter.com) |
+| [odin](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin.jpg) | Ryan Gorley; features work by Brendon Porter; CC BY-SA 4.0 | [Source](https://brendonporter.com) |

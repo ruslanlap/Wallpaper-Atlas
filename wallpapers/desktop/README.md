@@ -1,6 +1,6 @@
 # Desktop wallpapers
 
-95 original images. Preview images are reduced-size browsing aids; use **Original** for full resolution.
+110 original images. Preview images are reduced-size browsing aids; use **Original** for full resolution.
 
 ### Mountain lake
 [![Mountain lake](../../previews/desktop/mountain-lake.jpg)](https://raw.githubusercontent.com/mylinuxforwork/wallpaper/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/mountain-lake.jpg)
@@ -148,3 +148,48 @@
 | [Frequency](https://raw.githubusercontent.com/mylinuxforwork/wallpaper/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/frequency.jpg) | 3840 × 2160 | [ML4W](https://github.com/mylinuxforwork/wallpaper/blob/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/frequency.jpg) |
 | [Frozen shores burning sky](https://raw.githubusercontent.com/mylinuxforwork/wallpaper/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/frozen-shores-burning-sky.jpeg) | 3840 × 2160 | [ML4W](https://github.com/mylinuxforwork/wallpaper/blob/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/frozen-shores-burning-sky.jpeg) |
 | [Gdtography](https://raw.githubusercontent.com/mylinuxforwork/wallpaper/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/gdtography.jpg) | 6016 × 4016 | [ML4W](https://github.com/mylinuxforwork/wallpaper/blob/9e9d463d80e6090e1a60cfdfbd17dcd82eddd779/gdtography.jpg) |
+
+### A Large Body of Water Surrounded By Mountains
+4000 × 2668 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/A%20Large%20Body%20of%20Water%20Surrounded%20By%20Mountains.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/A%20Large%20Body%20of%20Water%20Surrounded%20By%20Mountains.jpg) · Peter Thomas; Unsplash license
+
+### Ashim DSilva
+3072 × 2048 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Ashim%20DSilva.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Ashim%20DSilva.jpg) · Ashim D’Silva; CC0 (upstream statement)
+
+### Canazei Granite Ridges
+5472 × 3648 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Canazei%20Granite%20Ridges.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Canazei%20Granite%20Ridges.jpg) · see original source; CC0 (upstream statement)
+
+### Martin Adams
+6000 × 4000 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Martin%20Adams.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Martin%20Adams.jpg) · Martin Adams; Unsplash license
+
+### Morskie Oko
+5184 × 3456 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Morskie%20Oko.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Morskie%20Oko.jpg) · see original source; Unsplash license
+
+### Mr. Lee
+4476 × 2984 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Mr.%20Lee.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Mr.%20Lee.jpg) · Mr. Lee; CC0 (upstream statement)
+
+### Nattu Adnan
+3992 × 2992 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Nattu%20Adnan.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Nattu%20Adnan.jpg) · Nattu Adnan; Unsplash license
+
+### Photo by SpaceX
+3000 × 1688 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20by%20SpaceX.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20by%20SpaceX.jpg) · SpaceX; CC0 (upstream statement)
+
+### Photo of Valley
+7952 × 5304 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20of%20Valley.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20of%20Valley.jpg) · Aniket Doele; Unsplash license
+
+### Snow-Capped Mountain
+4200 × 2800 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Snow-Capped%20Mountain.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Snow-Capped%20Mountain.jpg) · see original source; Pexels license
+
+### Sunset by the Pier
+5470 × 3646 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Sunset%20by%20the%20Pier.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Sunset%20by%20the%20Pier.jpg) · see original source; CC0 (upstream statement)
+
+### Tj Holowaychuk
+4240 × 2384 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Tj%20Holowaychuk.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Tj%20Holowaychuk.jpg) · Tj Holowaychuk; Unsplash license
+
+### Viktor Forgacs
+4896 × 3264 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Viktor%20Forgacs.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Viktor%20Forgacs.jpg) · Viktor Forgacs; Unsplash license
+
+### odin-dark
+3840 × 2160 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin-dark.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin-dark.jpg) · Ryan Gorley; features work by Brendon Porter; CC BY-SA 4.0
+
+### odin
+3840 × 2160 · [elementary wallpapers](https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin.jpg) · [Original](https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin.jpg) · Ryan Gorley; features work by Brendon Porter; CC BY-SA 4.0
