@@ -2853,6 +2853,246 @@ window.Atlas = {images: [
       "android",
       "iphone"
     ]
+  },
+  {
+    "id": "elementary-3a4861bf2026",
+    "title": "A Large Body of Water Surrounded By Mountains",
+    "style": "Nature",
+    "width": 4000,
+    "height": 2668,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/A%20Large%20Body%20of%20Water%20Surrounded%20By%20Mountains.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/A%20Large%20Body%20of%20Water%20Surrounded%20By%20Mountains.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Peter Thomas; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-d05be30fb03e",
+    "title": "Ashim DSilva",
+    "style": "Nature",
+    "width": 3072,
+    "height": 2048,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Ashim%20DSilva.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Ashim%20DSilva.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Ashim D’Silva; CC0 (upstream statement)",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-c892982913a1",
+    "title": "Canazei Granite Ridges",
+    "style": "Nature",
+    "width": 5472,
+    "height": 3648,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Canazei%20Granite%20Ridges.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Canazei%20Granite%20Ridges.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "see original source; CC0 (upstream statement)",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-e1eaf61b5fd9",
+    "title": "Martin Adams",
+    "style": "Nature",
+    "width": 6000,
+    "height": 4000,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Martin%20Adams.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Martin%20Adams.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Martin Adams; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-9fe9fc0f6f6a",
+    "title": "Morskie Oko",
+    "style": "Nature",
+    "width": 5184,
+    "height": 3456,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Morskie%20Oko.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Morskie%20Oko.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "see original source; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-a26b07cf004b",
+    "title": "Mr. Lee",
+    "style": "Nature",
+    "width": 4476,
+    "height": 2984,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Mr.%20Lee.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Mr.%20Lee.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Mr. Lee; CC0 (upstream statement)",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-88dd2e09b6fb",
+    "title": "Nattu Adnan",
+    "style": "Nature",
+    "width": 3992,
+    "height": 2992,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Nattu%20Adnan.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Nattu%20Adnan.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Nattu Adnan; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-c68f0b9a622e",
+    "title": "Photo by SpaceX",
+    "style": "Space",
+    "width": 3000,
+    "height": 1688,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20by%20SpaceX.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20by%20SpaceX.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "SpaceX; CC0 (upstream statement)",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-9174339345eb",
+    "title": "Photo of Valley",
+    "style": "Nature",
+    "width": 7952,
+    "height": 5304,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20of%20Valley.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Photo%20of%20Valley.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Aniket Doele; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-20976ea667db",
+    "title": "Snow-Capped Mountain",
+    "style": "Nature",
+    "width": 4200,
+    "height": 2800,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Snow-Capped%20Mountain.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Snow-Capped%20Mountain.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "see original source; Pexels license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-68a0ac95ca0f",
+    "title": "Sunset by the Pier",
+    "style": "Nature",
+    "width": 5470,
+    "height": 3646,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Sunset%20by%20the%20Pier.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Sunset%20by%20the%20Pier.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "see original source; CC0 (upstream statement)",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-26039f179e69",
+    "title": "Tj Holowaychuk",
+    "style": "Nature",
+    "width": 4240,
+    "height": 2384,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Tj%20Holowaychuk.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Tj%20Holowaychuk.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Tj Holowaychuk; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-c4a6d635843c",
+    "title": "Viktor Forgacs",
+    "style": "Nature",
+    "width": 4896,
+    "height": 3264,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Viktor%20Forgacs.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/Viktor%20Forgacs.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Viktor Forgacs; Unsplash license",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-d2aea1ff55d3",
+    "title": "odin-dark",
+    "style": "Abstract",
+    "width": 3840,
+    "height": 2160,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin-dark.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin-dark.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Ryan Gorley; features work by Brendon Porter; CC BY-SA 4.0",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
+  },
+  {
+    "id": "elementary-d382c5e0cf90",
+    "title": "odin",
+    "style": "Abstract",
+    "width": 3840,
+    "height": 2160,
+    "url": "https://raw.githubusercontent.com/elementary/wallpapers/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin.jpg",
+    "source": "https://github.com/elementary/wallpapers/blob/a533370e8e70309b16d34bd1389cd6295310be69/backgrounds/odin.jpg",
+    "collection": "elementary wallpapers",
+    "credit": "Ryan Gorley; features work by Brendon Porter; CC BY-SA 4.0",
+    "platforms": [
+      "windows",
+      "linux",
+      "mac"
+    ]
   }
 ],collections: [
 ['ML4W Wallpapers','mylinuxforwork','A personal wallpaper collection suited to tiling window managers.','https://github.com/mylinuxforwork/wallpaper','desktop linux windows mac hyprland'],
