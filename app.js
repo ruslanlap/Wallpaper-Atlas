@@ -28,8 +28,8 @@
     for(const wall of images.slice(0,visibleLimit)) {
       const card=element('article',null,wall.height>wall.width?'card portrait':'card');
       const preview=link('',wall.url); preview.className='image-link'; preview.setAttribute('aria-label',`Open ${wall.title} original image`);
-      const img=element('img'); img.src=wall.url;img.alt=wall.title;img.loading='lazy';img.decoding='async';img.width=wall.width;img.height=wall.height;
-      img.addEventListener('error',()=>{img.hidden=true;const message=element('span','Preview unavailable — open original source','failure');preview.append(message);preview.href=wall.source;},{once:true});preview.append(img);
+      const img=element('img'); img.src=wall.preview || wall.url;img.alt=wall.title;img.loading='lazy';img.decoding='async';img.width=wall.width;img.height=wall.height;
+      img.addEventListener('error',()=>{if(wall.preview && img.getAttribute('src')===wall.preview){img.src=wall.url;return;}img.hidden=true;const message=element('span','Preview unavailable — open original source','failure');preview.append(message);preview.href=wall.source;});preview.append(img);
       const head=element('div',null,'card-head'), info=element('div'); info.append(element('h2',wall.title),element('p',`${wall.width} × ${wall.height} · ${wall.style}`));
       const save=element('button',favorites.has(wall.id)?'★':'☆','save');save.type='button';save.setAttribute('aria-label',`Save ${wall.title}`);save.setAttribute('aria-pressed',String(favorites.has(wall.id)));
       save.addEventListener('click',()=>{favorites.has(wall.id)?favorites.delete(wall.id):favorites.add(wall.id);try{localStorage.setItem('atlas-image-favorites',JSON.stringify([...favorites]));}catch{}if(savedOnly){render()}else{save.textContent=favorites.has(wall.id)?'★':'☆';save.setAttribute('aria-pressed',String(favorites.has(wall.id)));}});
