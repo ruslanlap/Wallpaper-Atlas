@@ -1,6 +1,7 @@
 window.Atlas = {images: [
   {
     "id": "phone-iphone-12-dark",
+    "preview": "previews/mobile/phone-iphone-12-dark.jpg",
     "title": "Midnight spectrum",
     "style": "Abstract",
     "width": 1170,
@@ -16,6 +17,7 @@ window.Atlas = {images: [
   },
   {
     "id": "phone-iphone-12",
+    "preview": "previews/mobile/phone-iphone-12.jpg",
     "title": "Color spectrum",
     "style": "Abstract",
     "width": 1170,
@@ -31,6 +33,7 @@ window.Atlas = {images: [
   },
   {
     "id": "phone-iphone-12-pro-dark",
+    "preview": "previews/mobile/phone-iphone-12-pro-dark.jpg",
     "title": "Dark geometry",
     "style": "Abstract",
     "width": 1170,
@@ -46,6 +49,7 @@ window.Atlas = {images: [
   },
   {
     "id": "phone-marmotamaps_wallpaper_matterhorn_smartphone_1080x1920",
+    "preview": "previews/mobile/phone-marmotamaps_wallpaper_matterhorn_smartphone_1080x1920.jpg",
     "title": "Matterhorn map",
     "style": "Nature",
     "width": 1080,
@@ -61,6 +65,7 @@ window.Atlas = {images: [
   },
   {
     "id": "phone-02-artemis-ii-wallpaper-looking-back-at-earth-image",
+    "preview": "previews/mobile/phone-02-artemis-ii-wallpaper-looking-back-at-earth-image.jpg",
     "title": "Looking back at Earth",
     "style": "Space",
     "width": 1080,
@@ -76,6 +81,7 @@ window.Atlas = {images: [
   },
   {
     "id": "phone-08-artemis-ii-wallpaper-backlit-earth-image",
+    "preview": "previews/mobile/phone-08-artemis-ii-wallpaper-backlit-earth-image.jpg",
     "title": "Backlit Earth",
     "style": "Space",
     "width": 1080,
@@ -91,6 +97,7 @@ window.Atlas = {images: [
   },
   {
     "id": "mountain-lake",
+    "preview": "previews/desktop/mountain-lake.jpg",
     "title": "Mountain lake",
     "style": "Nature",
     "width": 3200,
@@ -107,6 +114,7 @@ window.Atlas = {images: [
   },
   {
     "id": "lofoten-sundown",
+    "preview": "previews/desktop/lofoten-sundown.jpg",
     "title": "Lofoten at sundown",
     "style": "Nature",
     "width": 3840,
@@ -123,6 +131,7 @@ window.Atlas = {images: [
   },
   {
     "id": "mojave-dark-mode",
+    "preview": "previews/desktop/mojave-dark-mode.jpg",
     "title": "Mojave after dark",
     "style": "Nature",
     "width": 3840,
@@ -139,6 +148,7 @@ window.Atlas = {images: [
   },
   {
     "id": "minimal-beton-building",
+    "preview": "previews/desktop/minimal-beton-building.jpg",
     "title": "Concrete study",
     "style": "Architecture",
     "width": 3360,
@@ -155,6 +165,7 @@ window.Atlas = {images: [
   },
   {
     "id": "Space-Nebula",
+    "preview": "previews/desktop/Space-Nebula.jpg",
     "title": "Nebula",
     "style": "Space",
     "width": 5824,
@@ -171,6 +182,7 @@ window.Atlas = {images: [
   },
   {
     "id": "abstract-dark",
+    "preview": "previews/desktop/abstract-dark.jpg",
     "title": "Dark abstraction",
     "style": "Abstract",
     "width": 3840,
@@ -187,6 +199,7 @@ window.Atlas = {images: [
   },
   {
     "id": "northern-night",
+    "preview": "previews/desktop/northern-night.jpg",
     "title": "Northern night",
     "style": "Nature",
     "width": 3840,
@@ -203,6 +216,7 @@ window.Atlas = {images: [
   },
   {
     "id": "orange-desert",
+    "preview": "previews/desktop/orange-desert.jpg",
     "title": "Orange desert",
     "style": "Nature",
     "width": 2560,
@@ -219,6 +233,7 @@ window.Atlas = {images: [
   },
   {
     "id": "minimal-boxes",
+    "preview": "previews/desktop/minimal-boxes.jpg",
     "title": "Quiet geometry",
     "style": "Abstract",
     "width": 3413,
@@ -235,6 +250,7 @@ window.Atlas = {images: [
   },
   {
     "id": "moonlight",
+    "preview": "previews/desktop/moonlight.jpg",
     "title": "Moonlight",
     "style": "Nature",
     "width": 3840,
@@ -251,6 +267,7 @@ window.Atlas = {images: [
   },
   {
     "id": "marina-bay-sands",
+    "preview": "previews/desktop/marina-bay-sands.jpg",
     "title": "Marina Bay",
     "style": "Architecture",
     "width": 3840,
@@ -267,6 +284,7 @@ window.Atlas = {images: [
   },
   {
     "id": "plasmawaves",
+    "preview": "previews/desktop/plasmawaves.jpg",
     "title": "Plasma waves",
     "style": "Abstract",
     "width": 5120,
@@ -1611,6 +1629,7 @@ window.Atlas = {images: [
   },
   {
     "id": "wall-f4d0a60a7636",
+    "preview": "previews/mobile/wall-f4d0a60a7636.jpg",
     "title": "02 artemis ii lunar flyby wallpaper earthset image",
     "style": "Space",
     "width": 1080,
@@ -1626,6 +1645,7 @@ window.Atlas = {images: [
   },
   {
     "id": "wall-cd30c0ac29e5",
+    "preview": "previews/mobile/wall-cd30c0ac29e5.jpg",
     "title": "04 artemis ii lunar flyby wallpaper peeking at earth image",
     "style": "Space",
     "width": 1080,
@@ -1641,6 +1661,7 @@ window.Atlas = {images: [
   },
   {
     "id": "wall-4405c212933b",
+    "preview": "previews/mobile/wall-4405c212933b.jpg",
     "title": "04 artemis ii wallpaper earth perspective image",
     "style": "Space",
     "width": 1080,
@@ -1656,6 +1677,7 @@ window.Atlas = {images: [
   },
   {
     "id": "wall-5a62f052c7b1",
+    "preview": "previews/mobile/wall-5a62f052c7b1.jpg",
     "title": "06 artemis ii lunar flyby wallpaper vavilov crater image",
     "style": "Space",
     "width": 1080,
@@ -1671,6 +1693,7 @@ window.Atlas = {images: [
   },
   {
     "id": "wall-22663e1c9ec4",
+    "preview": "previews/mobile/wall-22663e1c9ec4.jpg",
     "title": "06 artemis ii wallpaper earth views from the artemis ii crew i…",
     "style": "Space",
     "width": 1080,
@@ -1686,6 +1709,7 @@ window.Atlas = {images: [
   },
   {
     "id": "wall-488a3e0b9dbc",
+    "preview": "previews/mobile/wall-488a3e0b9dbc.jpg",
     "title": "08 artemis ii lunar flyby wallpaper new moon view image",
     "style": "Space",
     "width": 1080,

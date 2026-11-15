@@ -26,6 +26,7 @@ jobs:
       - run: |
           mkdir _site
           cp index.html app.js catalog.js README.md CONTRIBUTING.md LICENSE _site/
+          cp -r previews _site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
