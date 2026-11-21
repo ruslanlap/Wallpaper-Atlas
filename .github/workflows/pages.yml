@@ -22,7 +22,7 @@ jobs:
         with:
           persist-credentials: false
       - run: node --test tests/*.test.cjs
-      - uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v6
       - run: |
           mkdir _site
           cp index.html app.js catalog.js README.md CONTRIBUTING.md LICENSE _site/
